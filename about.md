@@ -14,7 +14,7 @@ I've lived on some pretty awful internet connections, and appreciated sites that
 
 ### Support 
 If you'd like to support this site and the projects within, I have a Patreon page at [Patreon.com/glytchtech](http://patreon.com/glytchtech)
-Massive thanks to all my past, current, and future supporters. You all are what makes this possible!
+<p>Massive thanks to all my past, current, and future supporters. You all are what makes this possible!</p>
 
 ### Contact me
 
