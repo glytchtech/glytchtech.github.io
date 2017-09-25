@@ -13,7 +13,7 @@ I've lived on some pretty awful internet connections, and appreciated sites that
 <p> This also isnt just for others, its for myself as well. This blog will help me understand projects looking back on them, and express problems Im facing and how I solve them, with the intention that I'll be a better problem solver. </p> 
 
 ### Support 
-If you'd like to support this site and the projects within, I have a Patreon page at [Patreon.com/glytchtech](patreon.com/glytchtech). 
+If you'd like to support this site and the projects within, I have a Patreon page at Patreon.com/glytchtech
 Massive thanks to all my past, current, and future supporters. You all are what makes this possible!
 
 ### Contact me
