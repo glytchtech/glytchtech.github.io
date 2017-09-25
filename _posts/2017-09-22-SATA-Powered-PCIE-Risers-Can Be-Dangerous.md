@@ -9,7 +9,7 @@ published: true
 
 <p>Below are some pictures of my failed SATA power connectors, leading to my SATA powered risers, as well as a picture of the new 6 pin powered risers with integrated buck converter. Beyond that I have embedded a video documenting in some detail, my experience with SATA powered risers and my switch to 6 Pin risers.</p>
 
-![Burnt SATA Riser Connectors]({{site.baseurl}}/images/2017/9/Burnt%20SATA.JPG =300x)
-![New 6 Pin Powered Risers]({{site.baseurl}}/images/2017/9/6%20Pin%20Risers.JPG =300x)
+![Burnt SATA Riser Connectors]({{site.baseurl}}/images/2017/9/Burnt%20SATA.JPG =300x200)
+![New 6 Pin Powered Risers]({{site.baseurl}}/images/2017/9/6%20Pin%20Risers.JPG =300x200)
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/9iDw9Y3EcO8?rel=0" frameborder="0" allowfullscreen></iframe>
