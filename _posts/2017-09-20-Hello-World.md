@@ -8,4 +8,4 @@ published: true
 I want this site and the info within, to outlive me. Keeping it as light and basic as possible, is the way to do that. </p>
 <p> This is just the intro post, be sure to check out my first proper blog post, and the 'About Me' page. I plan to write more this weekend, and continue to write one or two posts a week, documenting various projects I'm working on. </p> 
 <p> Massive thanks to everyone who has helped me get this far, and those who have pushed me to document my work better. Here's hoping it helps someone, somewhere </p> 
-![Main Logo]({{site.baseurl}}/_posts/logo.png)
+![Main Logo]({{site.baseurl}}/images/logo.png)
