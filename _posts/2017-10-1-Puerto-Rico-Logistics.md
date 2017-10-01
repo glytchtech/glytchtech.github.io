@@ -14,7 +14,7 @@ comes up. Now of course, getting planes into Puerto Rico is a bit difficult, and
 - Get them operational. Clear debris, use cargo planes to fly in stair trucks, forklifts, and anything else needed to load and unload people and cargo
 - Once a flight plan is in place, and you have regular supply flights coming in, and evacuation/medical flights going out:
 - Refocus National Guard onto clearing roads in and around the airports, and main highways/intersections/etc. 
--Setup supply distribution off of major intersections, and use any available vehicles and volunteers to haul and dsitribute suppliesa at those points. 
+- Setup supply distribution off of major intersections, and use any available vehicles and volunteers to haul and dsitribute suppliesa at those points. 
 
 <p> What this allows, is a massive air bridge. Focussing initial efforts on opening airports, means National Gaurd can then worry about flying in
 heavy equipment to clear and repair roads, stabilize structures, etc, while civillian craft focus on bringing in other supplies. National Guard's
