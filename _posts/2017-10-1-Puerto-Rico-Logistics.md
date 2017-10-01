@@ -16,11 +16,7 @@ comes up. Now of course, getting planes into Puerto Rico is a bit difficult, and
 - Refocus National Guard onto clearing roads in and around the airports, and main highways/intersections/etc. 
 - Setup supply distribution off of major intersections, and use any available vehicles and volunteers to haul and dsitribute suppliesa at those points. 
 
-<p> What this allows, is a massive air bridge. Focussing initial efforts on opening airports, means National Gaurd can then worry about flying in
-heavy equipment to clear and repair roads, stabilize structures, etc, while civillian craft focus on bringing in other supplies. National Guard's
-workload becomes significantly reduced, letting them focus on opening up roadways, allowing civillian vehicles to move freely. One could even 
-consider hiring Amazon and/or FedEx at this point. Allow them to write off the relief effort as a tax incentive maybe, and they also get a lot of
-good public relations material out of it, while their efficiency at taking orders and delivering supplies helps those in need. It very quickly
+<p> What this allows, is a massive air bridge. Focussing initial efforts on opening airports, means National Gaurd can then shift focus to flying in heavy equipment to clear and repair roads, stabilize structures, etc, while civillian craft focus on bringing in other supplies. National Guard's workload becomes significantly reduced, letting them focus on opening up roadways, allowing civillian vehicles to move freely. One could even consider hiring Amazon and/or FedEx at this point. Allow them to write off the relief effort as a tax incentive maybe, and they also get a lot of good public relations material out of it, while their efficiency at taking orders and delivering supplies helps those in need. It very quickly
 becomes a win-win situation for everyone involved, and significantly increases the rate at which things get restored to normalcy.</p> 
 
 <p> Ideally, a plan would've been put in place and approved in advance, however given our current political climate, it's pretty clear there was very
