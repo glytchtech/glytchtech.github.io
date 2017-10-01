@@ -1,5 +1,4 @@
-<p> It's pretty clear that the response to Huricane Maria devestating Harvey has been...inadequate. Had there been proper political foresight, 
-a disaster response plan would've been drafted up and approved in advance, and a much more adequate response carried out. </p>
+<p> It's pretty clear that the response to Huricane Maria devestating Puerto Rico has been...inadequate. Had there been proper political foresight, a disaster response plan would've been drafted up and approved in advance, and a much more adequate response carried out. </p>
 
 <p> Rather than point fingers, I figured the best way to handle a bad idea, is propose a good idea. Not that this is likely to be heard by 
 anyone who can do anything about it, but here it is anyway: Logistics is the issue, and logistics is all about efficiency...and if I know one 
