@@ -1,14 +1,16 @@
+---
+published: false
+---
+
 <p> It's pretty clear that the response to Huricane Maria devestating Puerto Rico has been...inadequate. Had there been proper political foresight, a disaster response plan would've been drafted up and approved in advance, and a much more adequate response carried out. </p>
 
 <p> Rather than point fingers, I figured the best way to handle a bad idea, is propose a good idea. Not that this is likely to be heard by 
-anyone who can do anything about it, but here it is anyway: Logistics is the issue, and logistics is all about efficiency...and if I know one 
-thing about the government, its not known for its efficiency and swift action. When I ask you what's the first thing to come to mind when I 
-say "Gets packages to where they need to go, quickly and safely" who comes to mind? USPS? Some other shipping companies? Amazon themselves even?All of the above have a pretty decent reputation for getting things where they need to go in a matter of days, rather than weeks, no matter what comes up. Now of course, getting planes into Puerto Rico is a bit difficult, and that's where the below plan comes in to play: </p> 
+anyone who can do anything about it, but here it is anyway: Logistics is the issue, and logistics is all about efficiency...and if I know one thing about the government, its not known for its efficiency and swift action. When I ask you what's the first thing to come to mind when I say "Gets packages to where they need to go, quickly and safely" who comes to mind? USPS? Some other shipping companies? Amazon themselves even?All of the above have a pretty decent reputation for getting things where they need to go in a matter of days, rather than weeks, no matter what comes up. Now of course, getting planes into Puerto Rico is a bit difficult, and that's where the below plan comes in to play: </p> 
 
 
 - Get initial National Guard in first with C130s. They can land pretty much anywhere. 
 - Survey and chose runways and airports which can service larger civilian aircraft. Chose ones which can quickly be made servicable
-- Get them operational. Clear debris, use cargo planes to fly in stair trucks, forklifts, and anything else needed to load and unload people and cargo
+- Get them operational. Clear debris, use cargo planes to fly in stair trucks, forklifts, and anything else needed to load and unload people and cargo 
 - Once a flight plan is in place, and you have regular supply flights coming in, and evacuation/medical flights going out:
 - Refocus National Guard onto clearing roads in and around the airports, and main highways/intersections/etc. 
 - Setup supply distribution off of major intersections, and use any available vehicles and volunteers to haul and dsitribute suppliesa at those points. 
