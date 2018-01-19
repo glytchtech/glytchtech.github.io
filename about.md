@@ -13,15 +13,13 @@ I've lived on some pretty awful internet connections, and appreciated sites that
 <p> This also isnt just for others, its for myself as well. This blog will help me understand projects looking back on them, and express problems Im facing and how I solve them, with the intention that I'll be a better problem solver. </p> 
 
 ### Support 
-<p> If you'd like to support this site and the projects within, I also have a [Patreon](https://www.patreon.com/glytchtech) </p>
-<p> I also accept Paypal, Bitcoin, BCH, and Ethereum below (with PayPal and Eth being preferred, currently)</p>
-<p> Paypal: glytchtech(at)gmail(dot)com </p>
-<p> BTC: 1JvCQyUp6WWzJkCF7zbewFXx4wrDgyDKMY </p>
-<p> BCH: 17naaQWZjE3Ftq2vZ6PbM5zhY8vXNcDa6w </p>
-<p> ETH: 0xf5c05D26ed10b19b5ec115DA9647c3bc40A12a33 </p>
-<p>Massive thanks to all my past, current, and future supporters. You all are what makes this possible!</p>
+If you'd like to support this site and the projects within, I also have a [Patreon](https://www.patreon.com/glytchtech) </p>
+I also accept Paypal, Bitcoin, BCH, and Ethereum below (with PayPal and Eth being preferred, currently)  
+Paypal: glytchtech@gmail.com  
+BTC: 1JvCQyUp6WWzJkCF7zbewFXx4wrDgyDKMY  
+BCH: 17naaQWZjE3Ftq2vZ6PbM5zhY8vXNcDa6w  
+ETH: 0xf5c05D26ed10b19b5ec115DA9647c3bc40A12a33  
+Massive thanks to all my past, current, and future supporters. You all are what makes this possible!  
 
 ### Contact me
-
-
 [glytchtech@gmail.com](mailto:glytchtech@gmail.com)
