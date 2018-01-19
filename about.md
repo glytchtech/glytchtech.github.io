@@ -13,7 +13,7 @@ I've lived on some pretty awful internet connections, and appreciated sites that
 <p> This also isnt just for others, its for myself as well. This blog will help me understand projects looking back on them, and express problems Im facing and how I solve them, with the intention that I'll be a better problem solver. </p> 
 
 ### Support 
-<p> If you'd like to support this site and the projects within, I have a Patreon page at [Patreon.com/glytchtech](http://patreon.com/glytchtech) </p>
+<p> If you'd like to support this site and the projects within, I have a Patreon page at [Patreon.com/glytchtech](https://patreon.com/glytchtech) </p>
 <p> I also accept Paypal, Bitcoin, BCH, and Ethereum below (with PayPal and Eth being preferred, currently)</p>
 <p> Paypal: glytchtech(at)gmail(dot)com </p>
 <p> BTC: 1JvCQyUp6WWzJkCF7zbewFXx4wrDgyDKMY </p>
