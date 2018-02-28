@@ -33,6 +33,6 @@ ultimatley be an issue faced as we go forward. This is just one of many uses for
 both network and physical. </p> 
 
 <p> Massive thanks to Darren from Hak5 for supplying the Pineapple Nano for this project. It's a great piece of hardware and I encourage anyone interested in wireless security to check it out. It makes for great demonstrations that are easy to grasp. 
-More info on the WiFi Pineapple Nano [here](https://www.wifipineapple.com/pages/nano) </p> 
-<p> I will likely continue developement on this concept, refining it and increasing it's feature set and capabilities. I currently
+More info on the WiFi Pineapple Nano <a href="https://www.wifipineapple.com/pages/nano">here</a> </p> 
+<p> I will likely continue developement on this concept, refining it and increasing it's feature set and capabilities. I currently 
 do not have plans to produce more of these platforms, however I am considering it. </p> 
