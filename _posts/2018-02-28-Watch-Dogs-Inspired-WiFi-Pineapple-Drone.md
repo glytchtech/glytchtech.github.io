@@ -9,8 +9,8 @@ infosec/messing with wireless security, and my other hobby of UAS/drones. </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lKtKYhTO5wk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<p> Project Cuckoo is so named, because of the nature of the Cuckoo bird. Cuckoos are birds that will lay their eggs, in other 
-birds nests, and then fly off, leaving the nest's owner to incubate and care for the cuckoo bird egg. In the same manner, 
+<p> Project Cuckoo is so named, because of the nature of the Cuckoo bird. Cuckoos are birds that will lay their eggs in other 
+birds' nests, and then fly off leaving the nest's owner to incubate and care for the cuckoo bird egg. In the same manner, 
 Project Cuckoo flies to it's target, lands, and is a rogue access point/pivot for getting into the targeted network. You then 
 drop your (egg) shells/persistance, and fly off. Thus, the silly name Project Cuckoo </p> 
 
