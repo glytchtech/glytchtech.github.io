@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WiFi Pineapple Drone, and using LG HG2 Cells for Drones'
+title: 'Watch Dogs Inspired Wireless Hacking Drone Using a Pineapple Nano'
 published: true
 ---
 <p> Today I finally got around to getting my WiFi Pineapple Drone, Project Cuckoo, out and flying. This was (is) a fun project 
