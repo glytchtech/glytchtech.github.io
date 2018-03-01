@@ -16,6 +16,6 @@ Lithium ion on the other hand, has a steeper curve, meaning performance of the d
 <p> The second issue is the internal resistance of cells, again, a thing all batteries have. Internal resistance, as the name implies, is the resistance in a cell. This ultimately decides how much current can be passed through/sourced from a patricular 
 battery. Lithium polymers are often chosen for drones to their <b> VERY </b> low internal resistance, and thus very high current
 capability and low voltage fluctuation under high loads. Meanwhile, lithium ions suffer from lower current output and bigger 
-voltage fluctuations. That last part is of particular note in my latest drone related project using non standard cells, [Project Cuckoo](http://glytch.tech/Watch-Dogs-Inspired-WiFi-Pineapple-Drone/) </p> 
+voltage fluctuations. That last part is of particular note in my latest drone related project using non standard cells, <a href="http://glytch.tech/Watch-Dogs-Inspired-WiFi-Pineapple-Drone/>Project Cuckoo</a> </p> 
 
 
