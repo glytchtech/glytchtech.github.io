@@ -19,4 +19,7 @@ capability and low voltage fluctuation under high loads. Meanwhile, lithium ions
 voltage fluctuations. That last part is of particular note in my latest drone related project using non standard cells,
   <a href="http://glytch.tech/Watch-Dogs-Inspired-WiFi-Pineapple-Drone/">Project Cuckoo</a> </p> 
 
+7.4v x 1100mah = 8.14wh
+8.14wh / 5 minutes = 1.62wh per minute
+
 
