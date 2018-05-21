@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'Watch Dogs Inspired Wireless Hacking Drone Using a Pineapple Nano'
+title: Watch Dogs Inspired Wireless Hacking Drone Using a Pineapple Nano
 published: true
 ---
+![Ddhk21UVwAA7s01.jpg]({{site.baseurl}}/_posts/Ddhk21UVwAA7s01.jpg)
+
 <p> Today I finally got around to getting my WiFi Pineapple Drone, Project Cuckoo, out and flying. This was (is) a fun project 
 partially inspired by the Ubisoft game, Watch Dogs 2. I say partially, as I've always had an interest in combining my hobby of
 infosec/messing with wireless security, and my other hobby of UAS/drones. </p> 
@@ -35,4 +37,6 @@ both network and physical. </p>
 <p> Massive thanks to Darren from Hak5 for supplying the Pineapple Nano for this project. It's a great piece of hardware and I encourage anyone interested in wireless security to check it out. It makes for great demonstrations that are easy to grasp. 
 More info on the WiFi Pineapple Nano <a href="https://www.wifipineapple.com/pages/nano">here</a> </p> 
 <p> I will likely continue developement on this concept, refining it and increasing it's feature set and capabilities. I currently 
-do not have plans to produce more of these platforms, however I am considering it. </p> 
+do not have plans to produce more of these platforms, however I am considering it. </p>
+
+![]({{site.baseurl}}/_posts/DcUdjvQXUAAC-rL.jpg)![DcUdjvQXUAAC-rL.jpg]({{site.baseurl}}/_posts/DcUdjvQXUAAC-rL.jpg)
