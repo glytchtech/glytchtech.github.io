@@ -39,7 +39,7 @@ More info on the WiFi Pineapple Nano <a href="https://www.wifipineapple.com/page
 <p> I will likely continue developement on this concept, refining it and increasing it's feature set and capabilities. I currently 
 do not have plans to produce more of these platforms, however I am considering it. </p>
 
-<p> For those of you who want to build your own, you can find the STL and Fusion 360 files for #ProjectCuckoo at https://www.thingiverse.com/thing:2924015
+<p> For those of you who want to build your own, you can find the STL and Fusion 360 files for #ProjectCuckoo <a href=https://www.thingiverse.com/thing:2924015> here </a>
 I will warn you however, it is a challenging build. A lot of small and difficult to manipulate wires, in tight spaces. Be sure to share anything you build, with me on twitter @GlytchTech</p>
 
 ![]({{site.baseurl}}/_posts/DcUdjvQXUAAC-rL.jpg)![DcUdjvQXUAAC-rL.jpg]({{site.baseurl}}/images/2018/5/DcUdjvQXUAAC-rL.jpg)
