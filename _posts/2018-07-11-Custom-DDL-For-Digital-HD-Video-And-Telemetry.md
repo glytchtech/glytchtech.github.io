@@ -28,8 +28,6 @@ Configurations are pretty versatile. Compact, quickly deployable tripod allows b
 Like I said, it's pretty slick and self contained. 
 
 ![Dh3DMxdWkAIfx29.jpg]({{site.baseurl}}/images/2018/7/Dh3DMxdWkAIfx29.jpg)
-![Dh3DNqNWsAc3dpg.jpg]({{site.baseurl}}/images/2018/7/Dh3DNqNWsAc3dpg.jpg)
-![Dh3DOeZX4AU7Hfl.jpg]({{site.baseurl}}/images/2018/7/Dh3DOeZX4AU7Hfl.jpg)
 
 One example loadout: I can fit #ProjectCuckoo, several batteries, the charger, an X-Lite controller, this custom DDL, a compact tripod, a tablet/GPD Pocket, and more in the Hak5 Tactic Elite Bag, allowing for a rapidly deployable, 1 person operable, HD video streaming and wifi pentesting drone platform.
 The whole kit weighs under 10lbs, 3 batteries would provide upwards of an hour of flight time, 1+ mile  range, and not to mention on site 'perch and stare' time which still needs testing.
