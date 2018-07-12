@@ -20,7 +20,7 @@ My system is made up of a 3d printed housing, in which a a Raspberry Pi Zero, Al
 
 I also intend to add a secondary small internal wifi dongle, which will allow a wireless connection to the box, allowing more system flexibility. 
 
-![Dh2i1-eWsAAyfyz.jpg, 20%]({{site.baseurl}}/images/2018/7/Dh2i1-eWsAAyfyz.jpg)
+![Dh2i1-eWsAAyfyz.jpg]({{site.baseurl}}/images/2018/7/Dh2i1-eWsAAyfyz.jpg =250x)
 
 Some other neat features of DroneBridge are that  it supports dual air side cards, and 4 or more ground side cards for true diversity, allowing several different antennas to be switched between automatically and seamlessly. For example, a few directionals facing different directions, with an omni at the middle for close range. It really is quite awesome firmware and is being very actively updated. I plan to make a couple different versions of these boxes based around it,but this is the most compact version I have in mind, at least for the moment.
 
