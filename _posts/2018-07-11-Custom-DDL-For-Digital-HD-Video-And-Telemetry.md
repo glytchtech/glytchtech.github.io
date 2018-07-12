@@ -20,17 +20,16 @@ My system is made up of a 3d printed housing, in which a a Raspberry Pi Zero, Al
 
 I also intend to add a secondary small internal wifi dongle, which will allow a wireless connection to the box, allowing more system flexibility. 
 
-![Dh2i1-eWsAAyfyz.jpg]({{site.baseurl}}/images/2018/7/Dh2i1-eWsAAyfyz.jpg =250x)
+![Dh2i1-eWsAAyfyz.jpg]({{site.baseurl}}/images/2018/7/Dh2i1-eWsAAyfyz.jpg)
 
 Some other neat features of DroneBridge are that  it supports dual air side cards, and 4 or more ground side cards for true diversity, allowing several different antennas to be switched between automatically and seamlessly. For example, a few directionals facing different directions, with an omni at the middle for close range. It really is quite awesome firmware and is being very actively updated. I plan to make a couple different versions of these boxes based around it,but this is the most compact version I have in mind, at least for the moment.
 
 Configurations are pretty versatile. Compact, quickly deployable tripod allows better range for light GCS setups. It can be secured internally or externally to bags, belts, and vests for truly portable/on the move operation. Wired and soon, wireless interfacing to phones, tablets, and laptop/desktop computers. Also direct HDMI out and recording to USB flash drive is possible. Ground station software like QGroundControl is gaining more support by the firmware, DroneBridge, and new features being added.
 Like I said, it's pretty slick and self contained. 
 
-![Dh3DMxdWkAIfx29.jpg]({{site.baseurl}}/_posts/Dh3DMxdWkAIfx29.jpg)
-![Dh3DNqNWsAc3dpg.jpg]({{site.baseurl}}/_posts/Dh3DNqNWsAc3dpg.jpg)
-![Dh3DOeZX4AU7Hfl.jpg]({{site.baseurl}}/_posts/Dh3DOeZX4AU7Hfl.jpg)
-
+![Dh3DMxdWkAIfx29.jpg]({{site.baseurl}}/images/2018/7/Dh3DMxdWkAIfx29.jpg)
+![Dh3DNqNWsAc3dpg.jpg]({{site.baseurl}}/images/2018/7/Dh3DNqNWsAc3dpg.jpg)
+![Dh3DOeZX4AU7Hfl.jpg]({{site.baseurl}}/images/2018/7/Dh3DOeZX4AU7Hfl.jpg)
 
 One example loadout: I can fit #ProjectCuckoo, several batteries, the charger, an X-Lite controller, this custom DDL, a compact tripod, a tablet/GPD Pocket, and more in the Hak5 Tactic Elite Bag, allowing for a rapidly deployable, 1 person operable, HD video streaming and wifi pentesting drone platform.
 The whole kit weighs under 10lbs, 3 batteries would provide upwards of an hour of flight time, 1+ mile  range, and not to mention on site 'perch and stare' time which still needs testing.
