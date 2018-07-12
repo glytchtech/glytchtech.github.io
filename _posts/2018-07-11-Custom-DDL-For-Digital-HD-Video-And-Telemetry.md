@@ -1,10 +1,6 @@
 ---
 published: false
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
 Recently I've been working on and off on a custom DDL (Digital Data Link) for my various drone projects. Requirements were multiple telemetry streams, one for the flight controller and one for any custom payload, as well as  HD digital video. Minimum 1 mile of range, conservatively, and I wanted it to be almost entirely self contained, with only a display device being external. I believe I have accomplished those goals, with this system. 
 
 ![Dh2i0-hXcAIcpsN.jpg]({{site.baseurl}}/_posts/Dh2i0-hXcAIcpsN.jpg)
@@ -24,7 +20,7 @@ My system is made up of a 3d printed housing, in which a a Raspberry Pi Zero, Al
 
 I also intend to add a secondary small internal wifi dongle, which will allow a wireless connection to the box, allowing more system flexibility. 
 
-![Dh2i1-eWsAAyfyz.jpg]({{site.baseurl}}/_posts/Dh2i1-eWsAAyfyz.jpg)
+![Dh2i1-eWsAAyfyz.jpg, 20%]({{site.baseurl}}/_posts/Dh2i1-eWsAAyfyz.jpg)
 
 
 Some other neat features of DroneBridge are that  it supports dual air side cards, and 4 or more ground side cards for true diversity, allowing several different antennas to be switched between automatically and seamlessly. For example, a few directionals facing different directions, with an omni at the middle for close range. It really is quite awesome firmware and is being very actively updated. I plan to make a couple different versions of these boxes based around it,but this is the most compact version I have in mind, at least for the moment.
