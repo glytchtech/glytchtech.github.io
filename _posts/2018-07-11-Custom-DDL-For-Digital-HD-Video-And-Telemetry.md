@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Recently I've been working on and off on a custom DDL (Digital Data Link) for my various drone projects. Requirements were multiple telemetry streams, one for the flight controller and one for any custom payload, as well as  HD digital video. Minimum 1 mile of range, conservatively, and I wanted it to be almost entirely self contained, with only a display device being external. I believe I have accomplished those goals, with this system. 
 
