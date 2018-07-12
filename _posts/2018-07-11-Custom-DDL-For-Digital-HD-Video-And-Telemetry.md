@@ -9,7 +9,7 @@ I've chosen to use <a href="https://github.com/seeul8er/DroneBridge"> DroneBridg
 
 In short, Wifibroadcast is a clever system that uses cheap and readily available wifi cards, but without the traditional wifi protocol. Instead the cards are in monitor mode and injecting packets in a unidirectional manner, giving low latency "analog-like" behavior. It has a graceful fall-off as you get to the edge of your range, dropping frames rather than cutting out entirely. Lower bitrates also allow much greater range than traditional WiFi. 
 
-As I mentioned above, DroneBridge can send bidirectional flight controller telemetry, as well as a second payload telemetry stream, configurable to work with almost any serial based system. The DroneBridge firmware also supports RC stick inputs on the ground via a sim cable, and will send that over the link too. Encryption is also possible, allowing you one, relatively secure data stream, unlike most consumer and commercial systems these days.  
+As I mentioned above, DroneBridge can send bidirectional flight controller telemetry, as well as a second payload telemetry stream, configurable to work with almost any serial based system. The DroneBridge firmware also supports RC stick inputs on the ground via a sim cable, and will send that over the link too. Encryption is also possible, enabling a single relatively secure data stream, unlike most hobbyist, consumer, and commercial systems these days.  
 
 So now that we've covered the firmware and understand that it meets my requirements, let's talk about the hardware and my requirements for such. 
 
