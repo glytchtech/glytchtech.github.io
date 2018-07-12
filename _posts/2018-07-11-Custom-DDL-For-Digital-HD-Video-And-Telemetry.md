@@ -1,8 +1,7 @@
 ---
 published: true
 ---
-Recently I've been working on a custom DDL (Digital Data Link) for my various drone projects. Requirements were multiple telemetry streams, one for the flight controller and one for any custom payload, as well as  HD digital video. Minimum 1 mile of range, conservatively, and I wanted it to be almost entirely self contained, with only a display device being external. I believe I have accomplished those goals, with this system. 
-
+Recently I've been working on a custom DDL (Digital Data Link) for my various drone projects. Requirements were multiple telemetry streams, one for the flight controller and one for any custom payload, as well as  HD digital video. Minimum 1 mile of range, conservatively, and I wanted it to be almost entirely self contained, with only a display device being external. I believe I have accomplished those goals, with this system.
 ![Dh2i0-hXcAIcpsN.jpg]({{site.baseurl}}/images/2018/7/Dh2i0-hXcAIcpsN.jpg)
 
 I've chosen to use <a href="https://github.com/seeul8er/DroneBridge"> DroneBridge </a> firmware to build this system. It is an open source implementation of wifibroadcast that provides extra features and a rather slick Android based app, that connects to the DDL over USB tethering or WiFi. It gives the system a DJI-like interface, with a minimap and OSD with important details. 
